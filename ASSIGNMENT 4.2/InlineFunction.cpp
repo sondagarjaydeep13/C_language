@@ -2,7 +2,9 @@
 using namespace std;
 
 class line {
-public:
+
+ public:
+
     inline float mul(float x, float y) {
         return (x * y);
     }
@@ -14,10 +16,11 @@ public:
     {    return ( y * y * y);
     }
 
-};
+ };
 
 
 int main() {
+    
     line obj;
     float val1, val2;
     cout << "Enter two values:";
