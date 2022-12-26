@@ -1,5 +1,9 @@
 
+.BUY {
+    
+   
 
+ }
 
 
 @media screen and ( max-width: 568px )
@@ -37,6 +41,6 @@
  .col-9 {width: 74.97%;}
  .col-10 {width: 83.3%;}
  .col-11 {width: 91.63%;}
- .col-12{width: 100%;}
+ .col-12 {width: 100%;}
  
 }
