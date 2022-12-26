@@ -9,7 +9,36 @@
 
 {
 
-.co
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
+ .col-sm-1 {}
 
 }
 
+@media screen and ( min-width: 568px )
+
+{
+
+ .col-1 {}  
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ .col-1 {}
+ 
+}
