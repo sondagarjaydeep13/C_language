@@ -1,0 +1,45 @@
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and ( max-width: 568px )
+
+{
+
+ .col-sm-1 {width: 8.33;}
+ .col-sm-1 {width: 16.66 ;}
+ .col-sm-1 {width: 24.99;}
+ .col-sm-1 {width: 33.32;}
+ .col-sm-1 {width: 41.65;}
+ .col-sm-1 {width: 49.98;}
+ .col-sm-1 {width: 58.31;}
+ .col-sm-1 {width: 66.64;}
+ .col-sm-1 {width: 74.97;}
+ .col-sm-1 {width: 83.3;}
+ .col-sm-1 {width: 91.63;}
+ .col-sm-1 {width: 99.96;}
+ 
+
+}
+
+@media screen and ( min-width: 568px )
+
+{
+
+ .col-1  {width: 8.33;}
+ .col-1 {width: 16.66 ;}
+ .col-1 {width: 24.99;}
+ .col-1 {width: 33.32;}
+ .col-1 {width: 41.65;}
+ .col-1 {width: 49.98;}
+ .col-1 {width: 58.31;}
+ .col-1 {width: 66.64;}
+ .col-1 {width: 74.97;}
+ .col-1 {width: 83.3;}
+ .col-1 {width: 91.63;}
+ .col-1 {width: 99.96;}
+ 
+}
