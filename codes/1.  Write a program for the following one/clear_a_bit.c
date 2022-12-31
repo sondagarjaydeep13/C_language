@@ -9,7 +9,9 @@ int main()
     scanf("%d",&pos);
 
     printf("befoer setting the number:%d\n",num);
-    num=num|1<
+    num=num;
+    
+    return 0;
 
 
 
