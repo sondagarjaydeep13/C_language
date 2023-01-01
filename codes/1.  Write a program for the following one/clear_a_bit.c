@@ -9,7 +9,7 @@ int main()
     scanf("%d",&pos);
 
     printf("befoer setting the number:%d\n",num);
-    num=num;
+    num=-   num;
     
     return 0;
 
