@@ -1,3 +1,4 @@
+
 #include<iostream>
 using namespace std;
 
@@ -10,18 +11,17 @@ cout<<"enter the number.."<<endl;
 
 cin>>num;
 
-cout<<"enter the position..,\n"<<endl;
+cout<<"enter the position..,"<<endl;
 
 cin>>pos;
 
-cout<<"Before Number =  "<<endl;
+cout<<"Before Number = " << num <<endl;                      
+ 
+num = num &~ (1<<pos);
 
-printf("Before Number= %d\n", num);
+cout<<"after number = " << num <<endl;       
 
-num= num &~ (1<<pos);
-
-          
-printf("After Number= %d\n" , num);
+// printf("After Number= %d\n" , num);
 
 return 0;
 }
