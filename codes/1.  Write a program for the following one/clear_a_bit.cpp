@@ -21,7 +21,6 @@ num = num &~ (1<<pos);
 
 cout<<"after number = " << num <<endl;       
 
-// printf("After Number= %d\n" , num);
 
 return 0;
 }

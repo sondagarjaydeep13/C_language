@@ -1,17 +1,26 @@
-#include<stdio.h>
+
+#include<iostream>
+using namespace std;
+
 int main(){
 
     
 int num, pos;
-printf("Enter the number..\n");
-scanf("%d" ,&num);
-printf("Enter the Position..\n");
-scanf("%d",&pos);
-printf("Before Number= %d\n", num);
 
-num= num ^ 1<<pos;
-          
-printf("After Number= %d\n" , num);
+cout<<"enter the number.."<<endl;
+
+cin>>num;
+
+cout<<"enter the position..,"<<endl;
+
+cin>>pos;
+
+cout<<"Before Number = " << num <<endl;                      
+ 
+num = num ^ 1<<pos;
+
+cout<<"after number = " << num <<endl;       
+
 
 return 0;
 }
