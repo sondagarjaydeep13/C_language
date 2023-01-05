@@ -11,7 +11,7 @@ int main()
 
     { cout<<"odd"<<endl;}
     else
-    
+    { cout<<"even"<<endl;}
     
 
     return 0;
