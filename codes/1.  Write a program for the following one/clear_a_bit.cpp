@@ -24,4 +24,3 @@ cout<<"after number = " << num <<endl;
 
 return 0;
 }
-
