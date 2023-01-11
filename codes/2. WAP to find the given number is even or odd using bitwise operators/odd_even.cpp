@@ -8,7 +8,7 @@ int main()
 
     if (no & 1)
     {
-    cout<<""
+    cout<<
     } 
 else // (number & 1) == 0
     {} number is even
