@@ -16,7 +16,7 @@ int main()
 
 else // (number & 1) == 0
 
-    { cout<<"even"
+    { cout<<"even"<<endl; } 
      
 
 }
