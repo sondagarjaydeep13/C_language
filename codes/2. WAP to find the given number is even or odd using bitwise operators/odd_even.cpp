@@ -19,4 +19,3 @@ else // (number & 1) == 0
     { cout<<"even"<<endl; } 
      
 
-}
