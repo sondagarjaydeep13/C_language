@@ -15,6 +15,8 @@ int main()
     { cout<<"odd"<<endl; }
 
 else // (number & 1) == 0
+
+    { cout<<"even"<<endl; } 
      
 
 }
