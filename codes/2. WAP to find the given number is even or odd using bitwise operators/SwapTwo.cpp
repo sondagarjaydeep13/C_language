@@ -13,7 +13,7 @@ int main()
   y = x^y;
   x = x^y;
    
-  cout << "After swapping x = " << x << " and y = " << y << ".
+  cout << "After swapping x = " << x << " and y = " << y << ".\n";
   
   return 0;
 }
