@@ -6,7 +6,7 @@
 int main()
 {
   int x = 23, y = 34;
-  cout << "Before swapping x = " << x << y = " << y << ".\n";
+  cout << "Before swapping x = " << x << " and y = " << y << ".\n";
   
   //swapping using bitwise operator
   
