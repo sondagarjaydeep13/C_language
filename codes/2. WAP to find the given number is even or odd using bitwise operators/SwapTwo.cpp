@@ -10,7 +10,7 @@ int main()
   
   //swapping using bitwise operator
   
-  x = x^y;
+  x =
   y = x^y;
   x = x^y;
    
