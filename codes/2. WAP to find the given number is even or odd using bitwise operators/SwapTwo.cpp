@@ -11,7 +11,7 @@ int main()
   //swapping using bitwise operator
   
   x = x^y;
-  y = x^y;
+  y = x^
   x = x^y;
    
   cout << "After swapping x = " << x << " and y = " << y << ".\n";
