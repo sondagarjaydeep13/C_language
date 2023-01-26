@@ -7,11 +7,11 @@ int result (int a, int b, char op);
 int main()
 {
 
-
 char optr, choice;
 int nr1, nr2;
 
-while (true){
+while (true)
+{
 cout << "Enter first number: ";
 cin >> nr1;
 cout << "Enter an operator (+ - / * %) : ";
