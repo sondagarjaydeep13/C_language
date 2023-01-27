@@ -19,7 +19,7 @@ cin >> optr;
 cout << "Enter second number: ";
 cin >> nr2;
 
-result 
+result (nr1, nr2, optr);
 cout<<"Would you like to perform other calculation?(Y/N): ";
 cin >> choice;
 
