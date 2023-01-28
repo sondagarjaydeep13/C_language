@@ -11,7 +11,8 @@
  { 
     position: relative;
     color: rgb(4, 62, 70);
-    top: 20px;
+    padding: 15px;
+    /* top: 20px; */
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
     background-image: linear-gradient(to bottom,#0069d1,#4ea4fa);
