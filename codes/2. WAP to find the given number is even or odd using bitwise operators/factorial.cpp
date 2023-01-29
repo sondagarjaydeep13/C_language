@@ -25,7 +25,7 @@ int main()
         cin>>num;
 
         for (i = 1; i <= num ; i++)
-              {factorial *= 1 ;}
+              {factorial *= i ;}
 
 
   cout<<"factorial of " << num << factorial <<endl;
