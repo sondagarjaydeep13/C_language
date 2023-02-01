@@ -24,17 +24,19 @@ body{
     {
         
         
-        block-size: 40px;
+        
         align-self: center;
         border-top: 0px solid rgb(255, 255, 255);
         border-left: 0px;
         border-right: 0px;   
         color: white;
-        background-color: black;
-        
-        
+        background-color: rgb(13, 0, 21);
         
     }
+    /* .em:hover
+    {
+        hover:focus-visible;
+    } */
     
     
     .or {
@@ -58,4 +60,22 @@ body{
         
         
     }
-    
+
+    input
+    {
+        width: 300px;
+        height: 40px;
+        
+        
+    }
+    a
+    {
+        color:rgb(13, 0, 21) ;
+    }
+    .img {
+        position: relative;
+        top: 30px;
+        height: 80px;
+        width: 80px;
+  
+    }
