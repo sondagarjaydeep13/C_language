@@ -4,7 +4,7 @@ body{
         background-color: rgb(13, 0, 21);
     }
     
-    .cross{
+    /* .cross{
         position: fixed;
         top:4%;
         right:7%;    
@@ -18,7 +18,7 @@ body{
         color: #fff;
         
         cursor: pointer;
-    }
+    } */
     
     .em
     {
