@@ -7,7 +7,7 @@ button
 {
     padding: 15px;
     margin: 0 5px;
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
     border-radius: 9px;
     cursor: pointer;
     width: 50px;
@@ -22,7 +22,10 @@ button
     border: 2px solid;
     border-radius: 9px;
 }
-.container
+/* .container
 {
-    background-image: linear-gradient( to left , rgb(156, 158, 169) ,rgb(39, 46, 101));
+    background-image: linear-gradient( to left , rgb(255, 255, 255) ,rgb(41, 41, 41));
+} */
+body{
+    background-image: linear-gradient( to left , rgb(209, 207, 207) ,rgb(41, 41, 41));
 }
