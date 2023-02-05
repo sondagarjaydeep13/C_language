@@ -1,3 +1,7 @@
+
+// find Number
+
+
 #include<stdio.h>
 int main()
 
