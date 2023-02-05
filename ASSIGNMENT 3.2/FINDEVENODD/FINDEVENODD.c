@@ -1,4 +1,7 @@
 
+// Find odd
+ // check 
+
 #include<stdio.h>  
   
 int main()  
