@@ -1,4 +1,6 @@
 
+//  baisic calculator
+
 #include<stdio.h>
 
 int main ()
