@@ -1,6 +1,6 @@
 
 // Find odd
- // check 
+ 
 
 #include<stdio.h>  
   
