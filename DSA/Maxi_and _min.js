@@ -2,13 +2,13 @@
 
 var i , min , max ;
 
-var a = [1,2,3,4,5]
+var a = [5,2,1,4,5,6,7]
 
     max = a[0]
 
     for(i = 0 ; i < a.length ; i++)
      {
-    if(a[0] > max)
+    if(a[i] > max)
     {
         max = a[i]
    
@@ -19,7 +19,7 @@ var a = [1,2,3,4,5]
     
     for(i = 0 ; i < a.length ; i++)
     {
-        if (a[0] < min){
+        if (a[i] < min){
             
             min = a[i]
             
