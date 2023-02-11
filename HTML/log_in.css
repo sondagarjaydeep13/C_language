@@ -2,6 +2,7 @@
         
 body{
         background-color: rgb(13, 0, 21);
+        /* background-image: url(https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/1804270.jpg); */
     }
     
     /* .cross{
@@ -78,5 +79,7 @@ body{
         top: 30px;
         height: 80px;
         width: 80px;
+
+        
   
     }
