@@ -1,0 +1,22 @@
+{
+  "name": "c_language",
+  "version": "1.0.0",
+  "description": "<h1> Assignment </h1>\r <br>\r <br>\r <h2> # C_language | C++ | HTML | CSS | JavaCript | </h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TankVivek/C_language.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TankVivek/C_language/issues"
+  },
+  "homepage": "https://github.com/TankVivek/C_language#readme",
+  "dependencies": {
+    "axios": "^1.3.2"
+  }
+}
