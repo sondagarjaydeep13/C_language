@@ -65,14 +65,12 @@
         margin-right:30px ;
         margin-left: 35px;
         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
-      
 
     }
     .col-2:hover 
     {
         color: #0984ff;
-        text-decoration: underline solid 3px  #0984ff;
-        text-underline-offset: 5px;
+        
     }
    
     
