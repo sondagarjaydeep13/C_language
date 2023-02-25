@@ -1,4 +1,5 @@
-
+ 
+ // // Find Mix and Min Number // // 
 
 var i , min , max ;
 
