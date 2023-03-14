@@ -3,7 +3,7 @@
  
 int main()
 {
-    char str[] = { "abcdcba" };
+    char str[10] = { "abcdcba" };
  
     // Start from leftmost and
     // rightmost corners of str
