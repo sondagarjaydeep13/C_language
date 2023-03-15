@@ -1,7 +1,6 @@
-  
-            // Reverse Array
+// Reverse Array
 
-// const reverseArray = (Arry,start,end) => 
+// const reverseArray = (Arry,start,end) =>
 // {
 //     while(start< end)
 //     {
@@ -23,7 +22,7 @@
 // var Arry = [1,2,3,4,5,5,6];
 // var n = 7;
 
-// PrintArray(Arry,n); 
+// PrintArray(Arry,n);
 
 // reverseArray(Arry,0,n-1);
 
@@ -31,38 +30,30 @@
 
 // PrintArray(Arry,n);
 
+// Second Mathod.
 
+// const arr=[2,3,4,5,6,7,8,12]
 
+// let start=0
 
-            // Second Mathod.
+// let end=arr.length - 1
 
-            // const arr=[2,3,4,5,6,7,8,12]
-            
-            // let start=0
-            
-            // let end=arr.length - 1
-            
-            // while(start<end){
-                
-            //     [arr[start],arr[end]]=[arr[end],arr[start]];
-                
-            //     start++;
-                
-            //     end--;
-                
-            // }
-            
-            // console.log(arr) 
+// while(start<end){
 
-            
-            
-              // Third Method
+//     [arr[start],arr[end]]=[arr[end],arr[start]];
 
+//     start++;
 
+//     end--;
 
-            // const arr=[2,3,4,5,6,7,8,12]
+// }
 
-            
-            // arr.reverse()
+// console.log(arr)
 
-            // console.log(arr)
+// Third Method
+
+// const arr=[2,3,4,5,6,7,8,12]
+
+// arr.reverse()
+
+// console.log(arr)
