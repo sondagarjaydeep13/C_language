@@ -1,2 +1,70 @@
-.nav {
+.logo {
+  position: relative;
+  height: 60px;
+  width: 60px;
+  left: 30px;
+}
+.nav1 {
+  position: absolute;
+  left: 150px;
+}
+.nav2 {
+  position: absolute;
+  left: 240px;
+}
+.nav3 {
+  position: absolute;
+  left: 342px;
+}
+.nav4 {
+  position: absolute;
+  left: 435px;
+}
+.nav5 {
+  position: absolute;
+  left: 525px;
+}
+.nav6 {
+  position: absolute;
+  left: 640px;
+}
+
+.search {
+  position: absolute;
+  left: 900px;
+  top: 32px;
+  height: 43px;
+  width: 360px;
+  border-radius: 8px;
+  border: 1px solid rgb(114, 110, 110);
+  background-color: rgb(8, 8, 8);
+  color: white;
+}
+.nav-color {
+  background-color: rgb(13, 0, 21);
+}
+.hw:hover {
+  display: flex;
+  text-decoration: underline solid 3px;
+  text-underline-offset: 10px;
+}
+.hv:hover {
+  display: flex;
+}
+.nv {
+  height: 115px;
+  width: auto;
+}
+.login {
+  position: absolute;
+  top: 33px;
+  left: 1350;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  border: solid white 1px;
+  background-color: black;
+  color: white;
+  font-size: large;
+  font-weight: 500;
 }
