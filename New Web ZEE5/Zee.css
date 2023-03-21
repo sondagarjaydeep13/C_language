@@ -7,7 +7,20 @@ body {
 .logo {
   height: 60px;
   width: 60px;
-  margin-top: 10px;
+}
+.search {
+  position: relative;
+  left: 500px;
+  display: flex;
+  block-size: 35px;
+  align-self: center;
+  border: 1px solid rgb(97, 97, 97);
+  border-radius: 10px;
+}
+.text:hover {
+  display: flex;
+  text-decoration: underline solid 3px;
+  text-underline-offset: 10px;
 }
 .color-nav {
   background-color: rgb(13, 0, 21);
