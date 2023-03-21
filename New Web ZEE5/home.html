@@ -4,6 +4,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <script
+      src="https://kit.fontawesome.com/cfe78a5750.js"
+      crossorigin="anonymous"
+    ></script>
+
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
@@ -13,7 +18,6 @@
   </head>
   <body>
     <nav class="navbar navbar-dark bg-dark justify-content-between">
-      <span class="text-white">{{udata}}</span>
       <a class="navbar-brand text-white"
         ><img
           style="height: 40px; width: 140px; margin-left: 70px"
@@ -22,11 +26,13 @@
           alt=""
       /></a>
       <a href="/" class="navbar-brand text-white">Home</a>
-      <a class="navbar-brand text-white">TV</a>
-      <a class="navbar-brand text-white">Movies</a>
-      <a class="navbar-brand text-white">Sports</a>
-      <a class="navbar-brand text-white">Disney+</a>
-      <a style="color: orange" class="navbar-brand">KIDS</a>
+      <a class="navbar-brand text-white nav">Movies</a>
+      <a class="navbar-brand text-white nav">TV Show</a>
+      <a class="navbar-brand text-white nav">Sports</a>
+      <a class="navbar-brand text-white nav">Primuim</a>
+      <a class="navbar-brand text-white nav">
+        <i class="fa-solid fa-table-cells"></i>
+      </a>
       <form class="form-inline">
         <input
           class="form-control mr-sm-2"
@@ -38,7 +44,6 @@
           Search
         </button>
       </form>
-      <a href="/login" class="navbar-brand text-white">{{msg}}</a>
     </nav>
   </body>
 </html>
