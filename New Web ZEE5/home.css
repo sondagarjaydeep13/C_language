@@ -31,21 +31,26 @@
 }
 
 .search {
-  position: absolute;
-  left: 750px;
-  top: 27px;
+  /* position: absolute; */
+  /* left: 750px; */
+  /* top: 27px; */
+  margin-top: 15px;
+  margin-right: 15px;
   height: 34px;
   width: 300px;
   border-radius: 5px;
   border: 1px solid rgb(114, 110, 110);
   background-color: rgb(8, 8, 8);
   color: white;
+  z-index: 2;
 }
 
 .login {
-  position: absolute;
-  top: 27px;
-  left: 1080;
+  /* position: absolute; */
+  /* top: 27px; */
+  /* left: 1080; */
+  margin-top: 15px;
+  margin-right: 10px;
   height: 35px;
   width: 90px;
   border-radius: 5px;
@@ -54,11 +59,14 @@
   color: white;
   font-size: large;
   font-weight: 500;
+  z-index: 2;
 }
 .buy {
-  position: absolute;
-  left: 1190;
-  top: 27px;
+  /* position: absolute; */
+  /* left: 1190; */
+  /* top: 27px; */
+  margin-top: 15px;
+  margin-right: 10px;
   border-radius: 6px;
   border: rgb(138, 50, 205);
   height: 35px;
@@ -67,6 +75,7 @@
   color: white;
   font-size: medium;
   font-weight: 500;
+  z-index: 2;
 }
 .line {
   background-color: black;
@@ -75,7 +84,7 @@
   width: 30px;
   border: 1px solid rgb(170, 168, 168);
   border-radius: 8px;
-  margin-top: 14px;
+  margin-top: 13px;
   z-index: 2;
 }
 
