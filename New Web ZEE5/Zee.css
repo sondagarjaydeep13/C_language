@@ -31,7 +31,7 @@ body {
   border: 1px solid rgb(114, 110, 110);
   background-color: rgb(8, 8, 8);
   color: white;
-  z-index: ;
+  z-index: 5;
 }
 
 .login {
