@@ -1,0 +1,144 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(13, 0, 21);
+}
+.logo {
+  position: relative;
+  height: 60px;
+  width: 60px;
+  left: 30px;
+}
+.text:hover {
+  display: flex;
+  text-decoration: underline solid 1px;
+  text-underline-offset: 8px;
+}
+.color-nav {
+    /* height: auto; */
+    /* width: auto; */
+  background-color: rgb(13, 0, 21);
+  color: white;
+}
+
+.search {
+  /* position: absolute; */
+  /* left: 750px; */
+  /* top: 25px; */
+  /* margin-top: 15px; */
+  /* margin-right: 15px; */
+  height: 30px;
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid rgb(114, 110, 110);
+  background-color: rgb(8, 8, 8);
+  color: white;
+  z-index: 5;
+}
+
+.login {
+  /* position: absolute; */
+  /* left: 1070px; */
+  /* top: 25px; */
+  /* margin-top: 15px; */
+  /* margin-right: 10px; */
+  margin-left: 5px;
+  height: 30px;
+  width: 90px;
+  border-radius: 5px;
+  border: solid white 1px;
+  background-color: black;
+  color: white;
+  font-size: large;
+  font-weight: 500;
+  z-index: 2;
+}
+.buy {
+  /* position: absolute; */
+  /* left: 1175px; */
+  /* top: 25px; */
+  /* margin-top: 15px; */
+  /* margin-right: 10px; */
+  margin-left: 5px;
+  border-radius: 6px;
+  border: rgb(138, 50, 205);
+  height: 30px;
+  width: 120px;
+  background-color: rgb(138, 50, 205);
+  color: white;
+  font-size: medium;
+  font-weight: 500;
+  z-index: 2;
+}
+.form{
+    display: flex;
+}
+.line {
+  /* position: absolute; */
+  /* top: 25px; */
+  /* left: 1340px; */
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  height: 30px;
+  width: 30px;
+  /* border: 1px solid rgb(170, 168, 168); */
+  /* border-radius: 8px; */
+  /* margin-top: 13px; */
+  z-index: 2;
+}
+.nav1 {
+  position: absolute;
+  left: 150px;
+  top: 25px;
+}
+.nav2 {
+  position: absolute;
+  left: 220px;
+  top: 25px;
+}
+.nav3 {
+  position: absolute;
+  left: 310px;
+  top: 25px;
+}
+.nav4 {
+  position: absolute;
+  left: 390px;
+  top: 25px;
+}
+.nav5 {
+  position: absolute;
+  left: 475px;
+  top: 25px;
+}
+.nav6 {
+  position: absolute;
+  top: 34px;
+  left: 540px;
+}
+.slde {
+    background-color: black;
+    color: whitesmoke;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    height: 550px;
+  }
+  .slde img {
+  height: 500px;
+  width: 0px;
+}
+.b1 {
+    position: relative;
+    display: flex;
+    height: 330px;
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 20px;
+    left: 20px;
+  }
+  .m-1{
+    border-radius: 5px;
+  }
+  
